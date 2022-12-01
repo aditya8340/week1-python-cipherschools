@@ -1,0 +1,7 @@
+print("aditya"[2:5])
+print("aditya"[0:5:1])
+print("aditya"[0:5:2])
+print("aditya"[0::2])
+print("aditya"[5::-1])
+print("aditya"[-1::-1])
+print("aditya"[::-1])
